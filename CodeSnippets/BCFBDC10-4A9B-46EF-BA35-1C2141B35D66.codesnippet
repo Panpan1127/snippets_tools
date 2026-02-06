@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_dispatch_async_main_queue</string>
+	<string>xx_property_UIImageView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    dispatch_async(dispatch_get_main_queue(), ^{
-
-    });</string>
+	<string>@property (nonatomic, strong) UIImageView *&lt;# var #&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1B268946-74B0-41AB-8923-243572E93099</string>
+	<string>BCFBDC10-4A9B-46EF-BA35-1C2141B35D66</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_dispatch_async_main_queue</string>
+	<string>UIImageView var</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>GCD async_main_queue define</string>
+	<string>UIImageView 属性声明</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

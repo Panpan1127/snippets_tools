@@ -3,36 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xx_file_roles</string>
+	<string>xx_UIView_get_lazy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)dealloc{
-    /// 禁止使用 self. 语法
-}
-#pragma mark - Public
-
-#pragma mark - Life Cycle
-
-#pragma mark - protocol
-
-#pragma mark - Delegate
-
-#pragma mark - Event
-
-#pragma mark - Private
-
-#pragma mark - Getter &amp; Setter</string>
+	<string>- (UIView *)&lt;# view_name #&gt; {
+    if(_&lt;# view_name #&gt;){
+        return _&lt;# view_name #&gt;;
+    }
+    _&lt;# view_name #&gt; = [[UIView alloc] init];
+    _&lt;# view_name #&gt;.backgroundColor = SOColor();
+    return _&lt;# view_name #&gt;;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A9107246-7E2F-4155-A635-DC66EB18F013</string>
+	<string>0C9CECC0-37B9-4E63-BA63-DBEFA8B4782C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>类文件布局</string>
+	<string>UIView lazy</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>类文件布局</string>
+	<string>UIView 懒加载</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

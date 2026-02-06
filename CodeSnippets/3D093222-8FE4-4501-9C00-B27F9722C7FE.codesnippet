@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_clang_ignore_declarations</string>
+	<string>xx_clang_ignore_declarations</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wdeprecated-declarations"
-&lt;# code #&gt;
+ &lt;# code #&gt;
 #pragma clang diagnostic pop</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3D093222-8FE4-4501-9C00-B27F9722C7FE</string>

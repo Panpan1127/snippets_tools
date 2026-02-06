@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_property_BOOL</string>
+	<string>xx_property_BOOL</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,assign)BOOL &lt;# var #&gt;;</string>
+	<string>@property (nonatomic, assign) BOOL &lt;# var #&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>80828A95-7F1D-4DD4-AA70-5E2B5DC8571B</string>
 	<key>IDECodeSnippetLanguage</key>

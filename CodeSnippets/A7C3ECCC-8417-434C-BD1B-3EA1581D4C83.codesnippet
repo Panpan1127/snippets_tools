@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_gloabal_var_extern</string>
+	<string>xx_gloabal_var_extern</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>extern NSString *const &lt;# GlobalPrefix #&gt;&lt;# var #&gt;</string>
+	<string>extern NSString *const &lt;# var #&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A7C3ECCC-8417-434C-BD1B-3EA1581D4C83</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_gloabal_var_extern</string>
+	<string>全局 var 声明</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>imx_gloabal_var_extern</string>
+	<string>全局 var 声明</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

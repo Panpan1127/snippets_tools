@@ -3,17 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_debug_macro</string>
+	<string>xx_debug_macro</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#ifdef DEBUG
-        
-        &lt;# do DEBUG stuff #&gt;
+  &lt;# do DEBUG stuff #&gt;
 #else
-        &lt;# do un DEBUG stuff #&gt;
+  &lt;# do un DEBUG stuff #&gt;
 #endif</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>08624B5C-A1BE-4BE8-AC69-094C734AA5AD</string>

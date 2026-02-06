@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_gcd_after</string>
+	<string>xx_gcd_after</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -19,7 +19,7 @@ dispatch_time_t popTime = dispatch_time(DISPATCH_TIME_NOW, &lt;# s #&gt; * NSEC_
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_gcd_after</string>
+	<string>GCD after_block in main_queue define</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>GCD after_block in main_queue define</string>
 	<key>IDECodeSnippetUserSnippet</key>

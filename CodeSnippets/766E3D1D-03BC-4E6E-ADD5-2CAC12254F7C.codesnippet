@@ -9,15 +9,15 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,copy)NSArray *&lt;# var #&gt;;</string>
+	<string>@property (nonatomic, copy) NSArray *&lt;# var #&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>766E3D1D-03BC-4E6E-ADD5-2CAC12254F7C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_property_Array</string>
+	<string>Array var</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>imx_property_Array</string>
+	<string>Array 属性声明</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

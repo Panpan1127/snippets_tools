@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_dispatch_main_queue</string>
+	<string>xx_dispatch_main</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string> dispatch_async(dispatch_get_main_queue(), ^{
-                                    &lt;# code #&gt;
-                                });</string>
+    &lt;# code #&gt;
+});</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>40D8B2BD-0967-40F8-AC36-B28EB7809136</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_dispatch_main_queue</string>
+	<string>GCD async main_queue</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>GCD async main_queue define</string>
+	<string>GCD async main_queue</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
