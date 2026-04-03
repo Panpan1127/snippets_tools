@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_property_BOOL</string>
+	<string>BOOL</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>BOOL var</string>
+	<string>BOOL 属性声明</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

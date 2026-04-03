@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_property_Dic</string>
+	<string>xx_property_Dic</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,copy)NSDictionary *&lt;# var #&gt;;</string>
+	<string>@property (nonatomic, copy) NSDictionary *&lt;# var #&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E202E5E5-AD3F-46A7-8779-B1EC21F849C7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_property_Dic</string>
+	<string>xx_property_Dic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>imx_property_Dic</string>
+	<string>xx_property_Dic</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

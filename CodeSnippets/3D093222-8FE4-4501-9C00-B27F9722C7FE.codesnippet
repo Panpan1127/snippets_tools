@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_clang_ignore_declarations</string>
+	<string>clang ignore</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>clang ignore warning</string>
 	<key>IDECodeSnippetUserSnippet</key>

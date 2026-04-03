@@ -9,8 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)dealloc{
-    /// 禁止使用 self. 语法
+	<string>- (void)dealloc {
 }
 #pragma mark - Public
 

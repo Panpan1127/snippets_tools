@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_property_Array</string>
+	<string>xx_property_Array</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Array var</string>
+	<string>Array</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Array 属性声明</string>
 	<key>IDECodeSnippetUserSnippet</key>

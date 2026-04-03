@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_debug_macro</string>
+	<string>debug_macro</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>debug macro define</string>
 	<key>IDECodeSnippetUserSnippet</key>

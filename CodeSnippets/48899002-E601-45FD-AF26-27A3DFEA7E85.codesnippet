@@ -9,9 +9,9 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (instancetype)init{
+	<string>- (instancetype)init {
     self = [super init];
-    if(self){
+    if (self) {
         &lt;# initial #&gt;
     }
     return self;

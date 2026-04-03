@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>imx_property_Float</string>
+	<string>xx_property_Float</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,assign)CGFloat &lt;# var #&gt;;</string>
+	<string>@property (nonatomic, assign) CGFloat &lt;# var #&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>156E4C74-69A4-4BFF-8DF8-BA03EC17E0D0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>imx_property_Float</string>
+	<string>xx_property_Float</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>imx_property_Float</string>
+	<string>xx_property_Float</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
