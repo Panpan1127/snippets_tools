@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIButton *)&lt;# button_name #&gt;{
-    if(_&lt;# button_name #&gt;){
+    if (_&lt;# button_name #&gt;) {
         return _&lt;# button_name #&gt;;
     }
     _&lt;# button_name #&gt; = [UIButton buttonWithType:UIButtonTypeCustom];

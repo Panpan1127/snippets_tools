@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIImageView *)&lt;# image_view_name #&gt;{
-    if(_&lt;# image_view_name #&gt;){
+    if (_&lt;# image_view_name #&gt;) {
         return _&lt;# image_view_name #&gt;;
     }
     _&lt;# image_view_name #&gt; = [[UIImageView alloc] init];

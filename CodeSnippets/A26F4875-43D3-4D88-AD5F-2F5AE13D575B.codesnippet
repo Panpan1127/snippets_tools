@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UILabel *)&lt;# label_name #&gt;{
-    if(_&lt;# label_name #&gt;){
+    if (_&lt;# label_name #&gt;) {
         return _&lt;# label_name #&gt;;
     }
     _&lt;# label_name #&gt; = [[UILabel alloc] init];

@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIView *)&lt;# view_name #&gt; {
-    if(_&lt;# view_name #&gt;){
+    if (_&lt;# view_name #&gt;) {
         return _&lt;# view_name #&gt;;
     }
     _&lt;# view_name #&gt; = [[UIView alloc] init];
